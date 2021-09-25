@@ -1,0 +1,8 @@
+{
+	"apps": [
+		{
+			"name": "open-tapd",
+			"script": "./tapd-macos"
+		}
+	]
+}
